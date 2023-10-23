@@ -1,2 +1,2 @@
-# Tarea1ç
+# Tarea1
 print("Hola Mundo")
